@@ -56,4 +56,4 @@ Liste non-exhaustive...
 - [Team4Job](http://www.team4job.be/) Pour personnes résidents à Bruxelles. 
 
 ## Contact
-Pour toute question, vous pouvez éventuellement les poser à Eric (eric[at]becode[point]org).
+Pour toute question, vous pouvez éventuellement les poser à [Eric](eric@becode.org).
