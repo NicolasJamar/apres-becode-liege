@@ -21,7 +21,7 @@ Voici plusieurs pistes pour vous mettre le pied à l’étrier, selon ce que vou
 
 ## Poursuivre une formation dans le développement web
 
-https://www.becode.org/index_fr.html Possibilité de prolonger en IA et bientôt cybersecurity. 
+[Bcode](https://www.becode.org/index_fr.html) Possibilité de prolonger en IA et bientôt cybersecurity.   
 http://numeria.be/ Soutenu par le Forem. 
 Liste non-exhaustive...
 
