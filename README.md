@@ -47,7 +47,7 @@ Liste non-exhaustive...
 - http://jobat.be 
 
 **Merci les Hamilton :**
-- http://internship.tanguyscholtes.be/
+- http://internship.tanguyscholtes.be/ 🌟
 
 
 ### Mesures d’aide à l’emploi
