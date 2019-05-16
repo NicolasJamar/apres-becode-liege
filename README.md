@@ -29,16 +29,16 @@ Liste non-exhaustive...
 ### Sites d’offres d’emploi
 - https://www.leforem.be/
 - http://actiris.be (Bruxelles)
-- http://linkedin.com
 
 **Spécialisés pour les dev :**
 - https://www.sortlist.be/fr/ 🌟
 - http://ictjob.be 🌟 <= et surtout l'onglet "stage" !
-- [Starups.be](https://data.startups.be/actors?actor_type=LegalEntity)
+- [Starups.be](https://data.startups.be/actors?actor_type=LegalEntity) 
 - https://www.mynextcompany.eu/en/jobs 🌟
 - https://welovedevs.com
 
 **Les gros sites :**
+- http://linkedin.com 🌟
 - https://emplois.be.indeed.com/
 - http://stepstone.be 
 - http://reference.be 
