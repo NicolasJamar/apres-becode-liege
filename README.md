@@ -46,6 +46,9 @@ Liste non-exhaustive...
 - http://optioncarriere.be 
 - http://jobat.be 
 
+**Merci les Hamilton :**
+- http://internship.tanguyscholtes.be/
+
 
 ### Mesures d’aide à l’emploi
 [Inventaire des principales mesures d’aide à l’emploi](https://www.leforem.be/particuliers/aides-financieres-emploi.html)
