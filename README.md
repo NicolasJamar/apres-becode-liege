@@ -33,9 +33,8 @@ Liste non-exhaustive...
 **Spécialisés pour les dev :**
 - https://www.sortlist.be/fr/ 🌟
 - http://ictjob.be 🌟 <= et surtout l'onglet "stage" !
-- [Startups.be](https://data.startups.be/actors?actor_type=LegalEntity) 
 - https://www.mynextcompany.eu/en/jobs 🌟
-- https://welovedevs.com
+- https://welovedevs.com 🌟
 
 **Les gros sites :**
 - http://linkedin.com 🌟
