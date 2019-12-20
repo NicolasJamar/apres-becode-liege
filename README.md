@@ -46,7 +46,7 @@ Liste non-exhaustive...
 - http://optioncarriere.be 
 - http://jobat.be 
 
-**Merci les Hamilton :**
+**Listing d'entreprises fait par Tanguy des Hamilton 1:**
 - http://internship.tanguyscholtes.be/ 🌟
 
 
