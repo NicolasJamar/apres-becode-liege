@@ -15,6 +15,7 @@ Voici plusieurs pistes pour vous mettre le pied à l’étrier, selon ce que vou
 - http://actiris.be (Bruxelles)
 
 **Spécialisés pour les dev :**
+- [Digital Wallonia](https://www.digitalwallonia.be/fr/tags/cms-developpement-web#secteurDuNumerique)
 - https://www.sortlist.be/fr/ 🌟
 - http://ictjob.be 🌟 <= et surtout l'onglet "stage" !
 - https://www.mynextcompany.eu/en/jobs 🌟
