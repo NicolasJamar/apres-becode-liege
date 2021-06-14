@@ -30,10 +30,6 @@ Voici plusieurs pistes pour vous mettre le pied à l’étrier, selon ce que vou
 - http://optioncarriere.be 
 - http://jobat.be 
 
-**Listing d'entreprises fait par Tanguy des Hamilton 1:**
-- http://internship.tanguyscholtes.be/ 🌟
-
-
 ### Mesures d’aide à l’emploi
 [Inventaire des principales mesures d’aide à l’emploi](https://www.leforem.be/particuliers/aides-financieres-emploi.html)
 
