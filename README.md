@@ -42,7 +42,6 @@ Voici plusieurs pistes pour vous mettre le pied à l’étrier, selon ce que vou
 
 - https://www.1890.be/ Toutes les infos sur aides, subventions, astuces... pour lancer son entreprise en Wallonie. Initiative lancée par la région wallonne.
 - http://www.1819.be Idem pour Bruxelles.
-- Formation (gratuite, six semaines) pour apprendre à lancer une startup, être coaché et trouver des investisseurs. Se fait à Becentral !  http://bestarter.org 
 - Smart ASBL : le premier pas sans risque pour lancer une carrière de freelance lorsqu'on n’a pas beaucoup de clients, via un statut de travailleur-salarié. http://smartbe.be/fr/a-propos/  Du coup, la Smart fait ta compta, court après tes clients (donc pas de retard de paiement). Ils prélèvent taxes et impôts à la source + leur commission. 
 - http://www.youthstart.be/ - Youthstart dispense de formations consacrées à l’esprit d’entreprise et à l’entrepreneuriat aux jeunes de 18 à 30 ans.
 - Fondation pour la jeune entreprise : https://www.fje.be/ . Conseils gratuits d'experts dans l'entrepeunariat. 
@@ -56,4 +55,4 @@ http://numeria.be/ Soutenu par le Forem.
 Liste non-exhaustive...
 
 ## Contact
-Pour toute question, vous pouvez éventuellement les poser à [Charlène](mailto:charlene@becode.org).
+Pour toute question, vous pouvez éventuellement les poser à [David](mailto:david.verbustel@becode.org).
